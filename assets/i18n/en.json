@@ -97,7 +97,7 @@
   },
   {
   	"id": "reminder.message",
-  	"translation": "{{.FinalTarget}} asked me to remind you \"{{.Message}}\"."
+  	"translation": "From {{.FinalTarget}}\n\n{{.Message}}."
   },
   {
     "id": "action.complete",
